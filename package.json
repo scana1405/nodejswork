@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-fmasters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin":{
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scana1405/nodejswork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scana1405/nodejswork/issues"
+  },
+  "homepage": "https://github.com/scana1405/nodejswork#readme",
+  "description": ""
+}

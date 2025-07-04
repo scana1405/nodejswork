@@ -2,7 +2,8 @@
   "name": "nodejs-fmasters",
   "version": "1.0.0",
   "main": "index.js",
-  "bin":{
+  "type": "module",
+  "bin": {
     "note": "./index.js"
   },
   "scripts": {
@@ -18,5 +19,8 @@
     "url": "https://github.com/scana1405/nodejswork/issues"
   },
   "homepage": "https://github.com/scana1405/nodejswork#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
